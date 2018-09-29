@@ -1,0 +1,6 @@
+C:\Users\smilechieh\Desktop\TypeDemo\TypeDemo\bin\Debug\TypeDemo.exe
+C:\Users\smilechieh\Desktop\TypeDemo\TypeDemo\bin\Debug\TypeDemo.pdb
+C:\Users\smilechieh\Desktop\TypeDemo\TypeDemo\obj\Debug\TypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\TypeDemo\TypeDemo\obj\Debug\TypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\TypeDemo\TypeDemo\obj\Debug\TypeDemo.exe
+C:\Users\smilechieh\Desktop\TypeDemo\TypeDemo\obj\Debug\TypeDemo.pdb
